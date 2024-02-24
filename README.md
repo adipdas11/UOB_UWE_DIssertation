@@ -9,4 +9,5 @@ Front view of exoskeleton
 ![front_view1_Exoskeleton](https://github.com/adipdas11/UOB_UWE_DIssertation/assets/97350367/5b8a0484-64ce-444e-81c9-d63baecde2d4)
 
 User Testing Experiment
-[<img src="[https://youtu.be/9iB5Bf_zj-Q" width="50%">]("Experiment")
+[![Experiment](https://github.com/adipdas11/UOB_UWE_DIssertation/assets/97350367/14dcc63d-d5d0-4ee4-9c33-bf55e257d161)](https://youtu.be/9iB5Bf_zj-Q "Experiment") 
+
